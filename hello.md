@@ -3,6 +3,8 @@ hello
 Anna Khazenzon
 June 27, 2016
 
+knitr::opts\_chunk$set(echo = TRUE)
+
 R Markdown
 ----------
 
@@ -27,6 +29,6 @@ Including Plots
 
 You can also embed plots, for example:
 
-![](hello_files/figure-markdown_github/pressure-1.png)
+![](hello_files/figure-markdown_github/r%20pressure-1.png)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
